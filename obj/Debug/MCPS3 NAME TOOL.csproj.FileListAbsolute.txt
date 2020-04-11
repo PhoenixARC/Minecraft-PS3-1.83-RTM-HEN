@@ -1,0 +1,35 @@
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\bin\Debug\MCPS3 NAME TOOL.exe.config
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\bin\Debug\MCPS3 NAME TOOL.exe
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\bin\Debug\MCPS3 NAME TOOL.pdb
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\bin\Debug\MetroFramework.dll
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\bin\Debug\PS3Lib.dll
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\bin\Debug\PS3ManagerAPI.dll
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3 NAME TOOL.csprojAssemblyReference.cache
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3_NAME_TOOL.Form1.resources
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3_NAME_TOOL.Properties.Resources.resources
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3 NAME TOOL.csproj.GenerateResource.cache
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3 NAME TOOL.csproj.CoreCompileInputs.cache
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3 NAME TOOL.csproj.CopyComplete
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3 NAME TOOL.exe
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3 NAME TOOL.pdb
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\bin\Debug\PcapDotNet.Analysis.dll
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\bin\Debug\PcapDotNet.Base.dll
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\bin\Debug\PcapDotNet.Core.dll
+C:\Users\PhoenixARC\source\repos\MCPS3 NAME TOOL\bin\Debug\PcapDotNet.Packets.dll
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\bin\Debug\MCPS3 NAME TOOL.exe.config
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\bin\Debug\MCPS3 NAME TOOL.exe
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\bin\Debug\MCPS3 NAME TOOL.pdb
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\bin\Debug\MetroFramework.dll
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\bin\Debug\PS3Lib.dll
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\bin\Debug\PS3ManagerAPI.dll
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3 NAME TOOL.csprojAssemblyReference.cache
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3_NAME_TOOL.Form1.resources
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3_NAME_TOOL.Properties.Resources.resources
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3 NAME TOOL.csproj.GenerateResource.cache
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3 NAME TOOL.csproj.CoreCompileInputs.cache
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3 NAME TOOL.csproj.CopyComplete
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3 NAME TOOL.exe
+C:\Users\phoen\source\repos\MCPS3 NAME TOOL\obj\Debug\MCPS3 NAME TOOL.pdb
